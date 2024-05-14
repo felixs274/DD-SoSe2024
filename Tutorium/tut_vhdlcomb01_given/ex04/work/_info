@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04
+Emodule
+Z1 w1715688384
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/module.vhd
+Z5 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/module.vhd
+l0
+L4
+V8Qo8F>=boeF?0S7W]CN2l3
+!s100 ]Q<1hYhnB?`i9TUYDJPc^1
+Z6 OL;C;10.6c;65
+32
+Z7 !s110 1715688392
+!i10b 1
+Z8 !s108 1715688392.000000
+Z9 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/module.vhd|
+Z10 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/module.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Abehav
+R2
+R3
+DEx4 work 6 module 0 22 8Qo8F>=boeF?0S7W]CN2l3
+32
+R7
+l13
+L11
+VCHi8mRiMfVIDVF^iolTo_0
+!s100 HnCojP^O:U6Q39?eTU:Q71
+R6
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Etb_module
+Z13 w1715687165
+R2
+R3
+R0
+Z14 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/tb_module.vhd
+Z15 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/tb_module.vhd
+l0
+L4
+VlV9EmJXggPlUJY^@9m:Jl0
+!s100 2@@F_3ITH9bQL4Vie@e^C3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/tb_module.vhd|
+Z17 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex04/hdl/tb_module.vhd|
+!i113 0
+R11
+R12
+Atestbench
+R2
+R3
+DEx4 work 9 tb_module 0 22 lV9EmJXggPlUJY^@9m:Jl0
+32
+R7
+l17
+L7
+V0>7@nX3=3nZ`Z<F;LY2M43
+!s100 H6N:HDnNTIZ<QUI_`VX@Y0
+R6
+!i10b 1
+R8
+R16
+R17
+!i113 0
+R11
+R12
