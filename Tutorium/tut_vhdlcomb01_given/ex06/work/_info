@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06
+Efulladd
+Z1 w1715692678
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/fulladd.vhd
+Z5 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/fulladd.vhd
+l0
+L4
+V;OSK<T7ABReH9^661DoU50
+!s100 m;0T4@_fhR3lb0L?G_<8A0
+Z6 OL;C;10.6c;65
+32
+Z7 !s110 1715694806
+!i10b 1
+Z8 !s108 1715694805.000000
+Z9 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/fulladd.vhd|
+Z10 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/fulladd.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Astruct
+R2
+R3
+DEx4 work 7 fulladd 0 22 ;OSK<T7ABReH9^661DoU50
+l15
+L9
+VCXAMK0;Qz?kA0`=<V46U^3
+!s100 TTMnChdOzfMPB=hzY`KbX1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Ehalfadd
+Z13 w1715687165
+R2
+R3
+R0
+Z14 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/halfadd.vhd
+Z15 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/halfadd.vhd
+l0
+L4
+V0g63QF7:o3`AcNQcTQC_W3
+!s100 eP8VWaf2Sc_zcz0AXa^2e2
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1715694806.000000
+Z17 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/halfadd.vhd|
+Z18 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/halfadd.vhd|
+!i113 0
+R11
+R12
+Abehav
+R2
+R3
+DEx4 work 7 halfadd 0 22 0g63QF7:o3`AcNQcTQC_W3
+l10
+L9
+VzCa<YYJXQGd]8_M_G5LZY3
+!s100 TG^1LKO=ILWFTW03AP]gi2
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R11
+R12
+Emodule
+Z19 w1715694790
+R2
+R3
+R0
+Z20 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/module.vhd
+Z21 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/module.vhd
+l0
+L4
+VVE^f2mD>MAzSNZ<hZH8_]2
+!s100 aR2:cgj<7Cd:Km_EC[UD;2
+R6
+32
+R7
+!i10b 1
+R16
+Z22 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/module.vhd|
+Z23 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/module.vhd|
+!i113 0
+R11
+R12
+Astruct
+R2
+R3
+DEx4 work 6 module 0 22 VE^f2mD>MAzSNZ<hZH8_]2
+l22
+L12
+Vi1IHPCbSnbSBiEz4NVQX10
+!s100 Q_P2O?;FV9M[SF><2oJTX0
+R6
+32
+R7
+!i10b 1
+R16
+R22
+R23
+!i113 0
+R11
+R12
+Etb_module
+Z24 w1715687166
+R2
+R3
+R0
+Z25 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/tb_module.vhd
+Z26 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/tb_module.vhd
+l0
+L4
+VlV9EmJXggPlUJY^@9m:Jl0
+!s100 2@@F_3ITH9bQL4Vie@e^C3
+R6
+32
+R7
+!i10b 1
+R16
+Z27 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/tb_module.vhd|
+Z28 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb01_given/ex06/hdl/tb_module.vhd|
+!i113 0
+R11
+R12
+Atestbench
+R2
+R3
+Z29 DEx4 work 9 tb_module 0 22 lV9EmJXggPlUJY^@9m:Jl0
+l19
+L7
+Z30 V0=P<9]z<KidOcONZkFW3=3
+Z31 !s100 [=;mAd:K4=neUN^eVnAIj3
+R6
+32
+R7
+!i10b 1
+R16
+R27
+R28
+!i113 0
+R11
+R12
