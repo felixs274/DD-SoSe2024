@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03
+Emodule
+Z1 w1715720482
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/module.vhd
+Z5 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/module.vhd
+l0
+L4
+V:mEH6DMP9Gij@[SEb4WP[2
+!s100 `gaRRHj^IB`VEm?2m28><3
+Z6 OL;C;10.6c;65
+32
+Z7 !s110 1715720471
+!i10b 1
+Z8 !s108 1715720471.000000
+Z9 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/module.vhd|
+Z10 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/module.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+DEx4 work 6 module 0 22 :mEH6DMP9Gij@[SEb4WP[2
+32
+R7
+l23
+L11
+VK^fR3BajMJ5Ln?7^NCOlU3
+!s100 jmUH3EgcMm?aEBFHWz[B11
+R6
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Esevenseg
+Z13 w1715719303
+R2
+R3
+R0
+Z14 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/sevenseg.vhd
+Z15 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/sevenseg.vhd
+l0
+L4
+VPTAnL_2Pc00KC4:Y:MZPD3
+!s100 DKXNS>X1XR0mOUOjC2eVO0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/sevenseg.vhd|
+Z17 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/sevenseg.vhd|
+!i113 0
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 8 sevenseg 0 22 PTAnL_2Pc00KC4:Y:MZPD3
+32
+R7
+l12
+L11
+V5;5f@@mAa9UR_[fBhZiz43
+!s100 eQeaX8R:YEE_z=U=Z4Z:K0
+R6
+!i10b 1
+R8
+R16
+R17
+!i113 0
+R11
+R12
+Etb_module
+Z18 w1715694939
+R2
+R3
+R0
+Z19 8/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/tb_module.vhd
+Z20 F/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/tb_module.vhd
+l0
+L4
+VlV9EmJXggPlUJY^@9m:Jl0
+!s100 2@@F_3ITH9bQL4Vie@e^C3
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/tb_module.vhd|
+Z22 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex03/hdl/tb_module.vhd|
+!i113 0
+R11
+R12
+Atestbench
+R2
+R3
+DEx4 work 9 tb_module 0 22 lV9EmJXggPlUJY^@9m:Jl0
+32
+R7
+l18
+L7
+VUF?hQ=J_A0D540PWC5KQQ1
+!s100 oS=zCCD3KDLlJGnbKIl`71
+R6
+!i10b 1
+R8
+R21
+R22
+!i113 0
+R11
+R12
