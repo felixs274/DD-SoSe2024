@@ -11,7 +11,7 @@ end;
 architecture arch of module is
 --##INSERT YOUR CODE HERE 
 
-signal bin : STD_LOGIC_VECTOR(3 downto 0);
+signal data : STD_LOGIC_VECTOR(3 downto 0);
 
 component sevenseg
   port(
@@ -22,13 +22,15 @@ end component;
 
 begin
 
-  U0: sevenseg port map(bin);
+  U0: sevenseg port map(bin => data, segments => segments);
 
-  with btn select
-    bin <=  "0000" when "00",
-            "0001" when "01",
-            "0010" when "10",
-            "0011" when others;
-
+  decoder: process(btn)
+    begin
+      with btn select
+        data <=  "0000" when "00",
+                "0001" when "01",
+                "0010" when "10",
+                "0011" when others;
+  end process decoder;
 --##INSERT YOUR CODE HERE END
 end;
