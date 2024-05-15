@@ -24,10 +24,12 @@ begin
           when "0111" => segments <= "1110000";
           when "1000" => segments <= "1111111";
           when "1001" => segments <= "1110011";
-          when "1010" => segments <= "1110111";	
-          when "1101" => segments <= "0111101";	
-          when "1110" => segments <= "1001111";	
-          when "1111" => segments <= "1000111";	
+          when "1010" => segments <= "1110111";	--A
+          when "1011" => segments <= "0011111";	--B
+          when "1100" => segments <= "0001101";	--c
+          when "1101" => segments <= "0111101";	--D
+          when "1110" => segments <= "1001111";	--E
+          when "1111" => segments <= "1000111";	--F
           when others => segments <= "0000000";
       end case;
   end process decoder;

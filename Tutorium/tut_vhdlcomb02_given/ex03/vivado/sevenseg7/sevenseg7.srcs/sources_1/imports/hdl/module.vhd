@@ -22,9 +22,9 @@ end component;
 
 begin
 
-  U0: sevenseg port map(bin => data);
+  U0: sevenseg port map(bin => data, segments => segments);
 
-  press: process(btn)
+  process(btn)
     begin
       case btn is
         when "11" => data <= "0011";
@@ -32,6 +32,6 @@ begin
         when "01" => data <= "0001";
         when others => data <= "0000";
       end case;
-  end process press;
+  end process;
 --##INSERT YOUR CODE HERE END
 end;
