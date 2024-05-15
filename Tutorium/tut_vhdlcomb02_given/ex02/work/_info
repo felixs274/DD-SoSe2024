@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 d/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex02
 Esevenseg
-Z1 w1715718893
+Z1 w1715778046
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 R0
@@ -21,9 +21,9 @@ VPTAnL_2Pc00KC4:Y:MZPD3
 !s100 DKXNS>X1XR0mOUOjC2eVO0
 Z6 OL;C;10.6c;65
 32
-Z7 !s110 1715718874
+Z7 !s110 1715778070
 !i10b 1
-Z8 !s108 1715718874.000000
+Z8 !s108 1715778070.000000
 Z9 !s90 -reportprogress|300|-work|work|/1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex02/hdl/sevenseg.vhd|
 Z10 !s107 /1data/DD-SoSe2024/Tutorium/tut_vhdlcomb02_given/ex02/hdl/sevenseg.vhd|
 !i113 0
@@ -34,14 +34,14 @@ R2
 R3
 DEx4 work 8 sevenseg 0 22 PTAnL_2Pc00KC4:Y:MZPD3
 32
-R7
+!s110 1715718874
 l12
 L11
 V5;5f@@mAa9UR_[fBhZiz43
 !s100 eQeaX8R:YEE_z=U=Z4Z:K0
 R6
 !i10b 1
-R8
+!s108 1715718874.000000
 R9
 R10
 !i113 0
